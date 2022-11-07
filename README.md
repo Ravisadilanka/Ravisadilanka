@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Ravisadilanka
+- 🎓 I'm undergraduater at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/)
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning backend development.
 - 💞️ I’m looking to collaborate on startups
