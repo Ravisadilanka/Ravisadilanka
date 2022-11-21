@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 I'm a undergraduater at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/)
+- 🎓 I'm a undergraduate at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/)
 
 - 🌱 I’m currently learning **full stack development and blockchain development**
 
